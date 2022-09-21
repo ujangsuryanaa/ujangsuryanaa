@@ -58,9 +58,3 @@
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2021 Tien Huynh tienhuynh-tn
 </div>
-
-------
-
-Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
-
-Last Edited on: 22/12/2021
